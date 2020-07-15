@@ -15,7 +15,7 @@ Will switch from C to Rust at some point.
 - [brightnessctl](https://github.com/natnat-mc/brightnessctl), a simple suid binary to set the screen brightness
 - [Snek](https://gitdab.com/Codinget/Snek), a "simple" Snake, done for my final JS class project
 - **upcoming** [dashboard](https://github.com/natnat-mc/dashboard), a small web dashboard for my server, using lapis
-- **upcoming** [limblib](https://github.com/natnat-mc/limglib), an image organization tool
+- **upcoming** [limglib](https://github.com/natnat-mc/limglib), an image organization tool
 - and basically everything here, on my [GitLab](https://gitlab.com/Codinget) and [GitDab](https://gitdab.com/Codinget)
 
 ## TODO
