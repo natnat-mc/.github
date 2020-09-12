@@ -10,7 +10,8 @@ Will switch from C to Rust at some point.
 ## ls ~/projects
 - [container](https://github.com/natnat-mc/container), a simple containerization script based on systemd-nspawn
 - [bot-info](https://github.com/natnat-mc/bot-info), a discord bot for the programming school I went to
-- [prompt](https://github.com/natnat-mc/prompt), a small prompt, mainly designed for fish
+- [rprompt](https://github.com/natnat-mc/rprompt), a small prompt for fish, zsh and bash, written in rust and moonscript
+	- [prompt](https://github.com/natnat-mc/prompt), a small prompt, mainly designed for fish, its older counterpart
 - [toolbox](https://github.com/natnat-mc/toolbox), a small toolbox of CLI tools based on lua
 - [brightnessctl](https://github.com/natnat-mc/brightnessctl), a simple suid binary to set the screen brightness
 - [Snek](https://gitdab.com/Codinget/Snek), a "simple" Snake, done for my final JS class project
